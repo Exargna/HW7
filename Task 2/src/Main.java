@@ -4,7 +4,7 @@ public class Main {
         int i = 0;
         while (i < 100) {
             i += 2;
-            System.out.println("Уволен айтишник с id" + i);
+            System.out.println("Уволен айтишник с id " + i);
             }
     }
 }
